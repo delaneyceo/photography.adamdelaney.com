@@ -8438,6 +8438,7 @@ ul.dropdown-menu li {
   margin-top: 3px; }
 
 img {
-  max-width: 100%; }
+  max-width: 100%;
+  height: auto; }
 
 /*# sourceMappingURL=photography.style.css.map */
